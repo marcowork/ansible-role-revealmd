@@ -4,6 +4,4 @@
   file:
     path: {{ presentation_directory }}
     state: directory
-    user: vagrant
-    owner: vagrant
     mode: 0755
