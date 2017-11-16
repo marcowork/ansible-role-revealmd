@@ -1,7 +1,7 @@
 galaxy_info:
   author: marcowork
   description: Role to install Reveal-MD with dependancies
-  company: marcowor
+  company: marcowork
   license: "license (BSD, MIT)"
   min_ansible_version: 2.1
 
