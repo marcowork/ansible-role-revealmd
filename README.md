@@ -1,7 +1,7 @@
 Role Name
 =========
 
-This role will install revealmd and nodejs.
+This role will install revealmd and nodejs8.
 
 Requirements
 ------------
