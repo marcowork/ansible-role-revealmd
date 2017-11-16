@@ -2,4 +2,4 @@
   # tasks file for installing Reveal-MD with all needed dependancies
   - include: nodejs.yml
   - include: revealmd.yml
-  - include: presenation.yml
+  - include: presentation.yml
