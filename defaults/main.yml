@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-role-reveal-md
+presentation_directory: "/data"
+port: 1948
