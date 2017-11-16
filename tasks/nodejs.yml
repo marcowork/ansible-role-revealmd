@@ -3,6 +3,7 @@
 
  - name: run setup script to check if the EPEL repo is available
    command: curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
+   ignore_errors: yes
 
  - name: install latest version of NodeJS
    yum:
