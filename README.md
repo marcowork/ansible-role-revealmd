@@ -4,7 +4,7 @@
 Role Name
 =========
 
-This role will install reveal-md and nodejs.
+This role will install reveal-md and nodejs. And all the need software.
 
 Requirements
 ------------
@@ -12,7 +12,7 @@ Requirements
 There is only one requirement for this role and thats access to internet. You need to download NodeJS RPM from the EPEL repository
 and the reveal-md npm from https://www.npmjs.com/package/reveal-md
 
-This role can be used to create presentations using Reveal-md. To create an environment where reveal-md is running you can use this role. 
+This role can be used to create presentations using Reveal-md. To create an environment where reveal-md is running you can use this role.
 
 Role Variables
 --------------
